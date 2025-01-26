@@ -146,3 +146,6 @@ Please ensure your code adheres to the standard coding style and includes tests 
 
 ## License 📝
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any queries feel free to mail me at: [Email](https://mailto:devang122indmp@gmail.com)
